@@ -8,5 +8,3 @@ for i in s:
         d[i]=1
 else:
     print("unique")
-
-
